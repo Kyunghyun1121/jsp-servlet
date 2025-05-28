@@ -25,5 +25,6 @@ public class HelloServlet extends HttpServlet {
   }
 
   public void destroy() {
+    System.out.println("삭제됨");
   }
 }
