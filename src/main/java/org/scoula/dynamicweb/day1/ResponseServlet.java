@@ -1,4 +1,4 @@
-package org.scoula.dynamicweb;
+package org.scoula.dynamicweb.day1;
 
 import java.io.IOException;
 import java.io.PrintWriter;
